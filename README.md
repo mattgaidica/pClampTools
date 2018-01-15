@@ -1,5 +1,5 @@
 # pClampTools
-Tools to get out of pClamp and into MATLAB.
+Tools to get out of pClamp and into MATLAB. Make sure to add /helpers to MATLAB path.
 
 * See test_loadVclampAbf to load ABF data into MATLAB
 * See test_abf2DDT to get out of pClamp and into Plexon Offline Sorter (OFS)
